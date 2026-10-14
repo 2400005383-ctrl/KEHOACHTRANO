@@ -5,7 +5,7 @@ from datetime import date
 import calendar
 
 st.set_page_config(page_title="Kế hoạch trả nợ", layout="wide")
-st.title("PHẦN MỀM LẬP KẾ HOẠCH TRẢ NỢ")
+st.title("PHẦN MỀM LẬP KẾ HOẠCH TRẢ NỢ _ NGUYỄN HOÀNG HƯNG")
 
 st.write("Nhập thông tin khoản vay.")
 
